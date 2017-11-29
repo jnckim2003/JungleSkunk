@@ -17,7 +17,8 @@ There are two versions of the game for testing
 * original - 5 health point and 0 spirit initially<br/>
 https://drive.google.com/open?id=0B2-Pbz9A-ivEaEJmdUpjTlo3Ukk
 
-* hacked - 100 health points and 10 spirits initially: enables to go straight to the portal(located in the top-left side of the adventure map) to try the boss stage faster<br/>
+* hacked - 100 health points and 10 spirits initially:<br/>
+enables to go straight to the portal(located in the top-left side of the adventure map) to try the boss stage faster<br/>
 https://drive.google.com/open?id=0B2-Pbz9A-ivEYXloMzFWTDM5N2c
 
 
